@@ -33,11 +33,11 @@
 
 <hr>
 
-<img align="left" alt="rohini GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Rohini763&show_icons=true&hide_border=true" />
+<img align="left" alt="rohini GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Rohini763&show_icons=true&hide_border=true"/>
 
 
 
-<br><img align="left" alt="rohini GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohini763" /></br>
+<br><img align="left" alt="rohini GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohini763"/></br>
 
 
 
