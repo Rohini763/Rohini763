@@ -12,7 +12,9 @@
 - 😄 Pronouns: ...she/her
 - ⚡ Fun fact: ...i do better day by day! 
      love to make rangoli! found the fun in magical technology releted things!!!
--->
+     
+     
+--><br>
 
 ### Languages and Tools:
 
