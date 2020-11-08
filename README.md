@@ -26,19 +26,20 @@
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <br />
 <br />
+<br>
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
+
+ 
 
   <img align="left" alt="rohini GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Rohini763&show_icons=true&hide_border=true" />
 
-</details>
 
-<details>
-  <summary>:zap: Most Used Languages</summary>
+
+
+  <br>
 
 <img align="left" alt="rohini GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohini763" />
 
-</details>
+
 
 
