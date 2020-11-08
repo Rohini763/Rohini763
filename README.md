@@ -1,5 +1,7 @@
 ### Hello world! I'M ROHINI 👋
+
 <img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="320" />
+
 - 🔭 I’m currently working on web developement.
 - 🌱 I’m currently learning react native and android studio.
 - 🤔 I’m looking for help from others creaters to teach me new things
@@ -26,8 +28,10 @@
 
 <hr>
 
-<img align="left" alt="rohini GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Rohini763&show_icons=true&hide_border=true">
-<img align="left" alt="rohini GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohini763">
+<img align="left" alt="rohini GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Rohini763&show_icons=true&hide_border=true"/>
+
+
+<img align="left" alt="rohini GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohini763"/>
 
 
 
