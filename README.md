@@ -4,7 +4,6 @@
 
 - 🔭 I’m currently working on web developement.
 - 🌱 I’m currently learning react native and android studio.
-- 🤔 I’m looking for help from others creaters to teach me new things
 - 💬 Ask me about ...Anything
 - 📫 How to reach me: ...rohinipatil221997@gmail.com
 - 😄 Pronouns: ...she/her
