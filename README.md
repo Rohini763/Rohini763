@@ -8,8 +8,8 @@
 - 📫 How to reach me: ...rohinipatil221997@gmail.com
 - 😄 Pronouns: ...she/her
 - ⚡ Fun fact: ...i do better day by day! 
-     love to make rangoli! 3 pm to 7 pm and  11 pm to 3 Am this is my worktime on pc!
-     and found the fun in magical technology releted things!!!
+     love to make rangoli!
+     found the fun in magical technology releted things!!!
      <hr>
 
 ### Languages and Tools:
