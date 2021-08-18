@@ -9,7 +9,7 @@
 - 😄 Pronouns: ...she/her
 - ⚡ Fun fact: ...i do better day by day! 
      love to make rangoli!
-     found the fun in magical technology releted things!!!
+     always i has been found the fun in magical technology releted things!!!
      <hr>
 
 ### Languages and Tools:
