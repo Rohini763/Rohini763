@@ -8,7 +8,6 @@
 - 📫 How to reach me: ...rohinipatil221997@gmail.com
 - 😄 Pronouns: ...she/her
 - ⚡ Fun fact: ...i do better day by day! 
-     love to make rangoli!
      always i has been found the fun in magical technology releted things!!!
      <hr>
 
